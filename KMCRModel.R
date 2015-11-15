@@ -1,5 +1,6 @@
 # Main model for Competing Risks: Death and Ruin Paper
 # Build constant-rate spending model, create and plot Kaplan-Meier and Competing Risk Curves
+# This script creates Figures 3a-3c, 5a-5c and 6 for the paper
 
 # Model parameters
 wr <-0.04 # percentage of initial portfolio value to spend annually

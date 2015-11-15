@@ -6,7 +6,7 @@ library(ggplot2)
 library(scales)
 library(survival)
 library(cmprsk)
-library(reshap)
+library(reshape2)
 
 # INPUT
 wr <-0.05 # percentage of initial portfolio value to spend annually
